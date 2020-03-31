@@ -1,0 +1,103 @@
+.top-container{
+    background-color: lightsalmon;
+}
+h1{
+   margin:0px; 
+   font-family: 'Sacramento', cursive;
+   color:  rgb(41, 41, 41);
+   font-size: 540%;
+}
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+.cloud{
+    width: 200px;
+}
+.volcano{
+    width: 700px;
+    height: 250px;
+    
+}
+.bottom{
+    position: absolute;
+}
+.top{
+    position: relative;
+    margin-left: 250px;
+}
+h2{
+    font-family: cursive;
+    color: lightsalmon;
+}
+h3{
+    font-family: cursive;
+    color: rgb(255, 160, 122);
+}
+.middle-container{
+    background-color:rgb(41, 41, 41);
+    font-size: 25px;
+}
+.bottom-container{
+    background-color: rgb(41, 41, 41);
+    font-size: 25px;
+    padding: 50px 0px 20px;
+}
+.me{
+    width: 150px;
+    height: 150px;
+    padding-top: 10px;
+}
+.skill{
+     width: 150px;
+    height: 150px;
+}
+p{
+    color: whitesmoke;
+    font-size: 25px;
+}
+.text{
+    color: rgb(41, 41, 41);
+    font-size: 35px;
+}
+a{
+    color:#ffa07a;
+    text-decoration:none;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: darkgray;
+    border-width: 5px;
+    width: 10%;
+}
+.tron {
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+color: #FFA07A;
+font-family: monospace;
+font-size: 15px;
+font-weight: 100;
+padding: 2px;
+background-color: rgb(41, 41, 41);
+box-shadow: 1px 1px 20px 0px #000000;
+-webkit-box-shadow: 1px 1px 20px 0px #000000;
+-moz-box-shadow: 1px 1px 20px 0px #000000;
+text-shadow: 1px 1px 20px #000000;
+border: solid #FFA07A 3px;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+text-align: center;
+}
+
+.tron:hover {
+background: rgb(41, 41, 41);
+border: solid #FFFFFF 4px;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+text-decoration: none;
+}
